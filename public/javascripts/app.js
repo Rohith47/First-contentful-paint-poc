@@ -54,5 +54,6 @@ try {
     buffered: true,
   });
 } catch (e) {
+    console.log('error is ', e);
   // Do nothing if the browser doesn't support this API.
 }
