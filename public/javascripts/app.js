@@ -57,3 +57,8 @@ try {
     console.log('error is ', e);
   // Do nothing if the browser doesn't support this API.
 }
+
+window.getFCP((fcpValue, node) => {
+    console.log("First Contentful Paint", fcpValue);
+    console.log("DOM node resposible for FCP ", fcpValue);
+  });

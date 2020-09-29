@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="20px" height="20px" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve">
+<g>
+	<circle fill="#3F3E3E" cx="18.282" cy="1.75" r="0.832"/>
+	<circle fill="#3F3E3E" cx="1.786" cy="1.75" r="0.832"/>
+	<circle fill="#3F3E3E" cx="1.786" cy="18.25" r="0.832"/>
+	<circle fill="#3F3E3E" cx="18.282" cy="18.248" r="0.83"/>
+
+		<rect x="-1.566" y="9.145" transform="matrix(0.7085 0.7057 -0.7057 0.7085 9.965 -4.1775)" fill="#3F3E3E" width="23.211" height="1.659"/>
+
+		<rect x="-1.565" y="9.147" transform="matrix(0.7057 -0.7085 0.7085 0.7057 -4.1141 10.0513)" fill="#3F3E3E" width="23.213" height="1.66"/>
+</g>
+</svg>

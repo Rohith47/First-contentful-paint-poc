@@ -6,3 +6,162 @@ body {
 a {
   color: #00B7FF;
 }
+
+header {
+  width: 100%;
+  padding-left: 0;
+  margin-top: 0;
+  position: fixed;
+  max-height: 90px;
+  width: 100%;
+  padding-top: 23px;
+  padding-bottom: 23px;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  box-shadow: 0 4px 4px -3px rgba(0,0,0,.2);
+}
+
+.logo {
+  width: 150px;
+  margin-left: 10px;
+  float: left;
+}
+
+.menu-wrapper {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.menu {
+  width: 335px;
+  margin-right: 150px;
+  background: transparent;
+  font-size: 18px;
+  color: #024;
+}
+
+.logo-corporate {
+  position: absolute;
+  display: block;
+  right: 60px;
+  top: 20px;
+}
+
+aside {
+  background-color: #024;
+  width: 270px;
+  position: fixed;
+  overflow-x: hidden;
+  overflow-y: auto;
+  top: 90px;
+  bottom: 86px;
+  left: 0;
+  transition: width .3s ease;
+  color: #FFF;
+}
+
+.list-group {
+  width: 100%;
+  max-height: 100%;
+  padding-right: 20px;
+  margin-right: -20px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  box-sizing: content-box;
+}
+
+.list-group li {
+  display: block;
+  clear: both;
+  border-bottom: 1px solid #24415e;
+  margin-bottom: 0;
+  box-sizing: border-box;
+  min-width: 270px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  outline-width: 0;
+}
+
+.icon {
+  height: 30px;
+  width: 56px;
+  float: left;
+  margin: 12px 13px 0;
+  text-align: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 50%;
+}
+
+.accounts-icon {
+  background-image: url('/images/accounts.svg');
+  background-size: 20px;
+}
+
+.investments-icon {
+  background-image: url('/images/accounts.svg');
+  background-size: 20px;
+}
+
+.payments-icon {
+  background-image: url('/images/investments.svg');
+  background-size: 20px;
+}
+
+.esafe-icon {
+  background-image: url('/images/esafe-icon-nav.svg');
+  background-size: 20px;
+}
+
+.inbox-icon {
+  background-image: url('/images/inbox.svg');
+  background-size: 20px;
+}
+
+.help-icon {
+  background-image: url('/images/help.svg');
+  background-size: 20px;
+}
+
+.link-text {
+  line-height: 51px;
+  padding-top: 4px;
+  display: inline-block;
+  clear: none;
+  width: 180px;
+  font-weight: 400;
+  font-size: 15px;
+  transition: all .3s;
+  font-family: Open Sans;
+}
+
+.nav-item {
+  max-height: 79px;
+  overflow: hidden;
+  display: inline-block;
+  transition: all 0s !important;
+  font-size: 16px;
+  line-height: 27px;
+  width: 100%;
+}
+
+.hamburger-menu {
+  background-color: #024;
+  width: 86px;
+  height: 90px;
+  position: fixed;
+  top: 0;
+  padding: 12px 32px 17px 31px;
+  cursor: pointer;
+  border-bottom: 0;
+}
+
+.icon-menu-button {
+  height: 100%;
+  width: 100%;
+  fill: #fff;
+}
