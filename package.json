@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "gulp": "gulp --tasks"
+    "gulp": "gulp --tasks",
+    "gulp-png": "gulp --pngsprite"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
@@ -17,6 +18,8 @@
   },
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-svg-sprite": "^1.5.0"
+    "gulp-if": "^3.0.0",
+    "gulp-svg-sprite": "^1.5.0",
+    "sprity": "^1.0.8"
   }
 }
