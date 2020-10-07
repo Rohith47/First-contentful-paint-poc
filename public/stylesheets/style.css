@@ -103,7 +103,7 @@ aside {
 }
 
 .investments-icon {
-  background-image: url('/images/accounts.svg');
+  background-image: url('/images/olb-sprite.svg#investments');
   background-size: 20px;
 }
 

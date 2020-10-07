@@ -1,0 +1,24 @@
+/* Icons from directory "" */
+.icon-Logo_OnlineBanking,.icon-Logo_OnlineBanking\:regular{background-position:0 0;background-repeat:no-repeat}
+.icon-Logo_OnlineBanking-dims{width:150px;height:48px; background-size: 150px}
+.icon-accounts,.icon-accounts\:regular{background-position:10px -36px;background-repeat:no-repeat; background-size: 269%;}
+.icon-esafe-icon-nav,.icon-esafe-icon-nav\:regular{background-position:15px -131px;background-repeat:no-repeat}
+.icon-esafe-icon-nav-dims{background-size: 460% 30em;}
+.icon-help,.icon-help\:regular{background-position:18px -170px;background-repeat:no-repeat}
+.icon-help-dims{height:26px; background-size: 400% 30em}
+.icon-icon-logout,.icon-icon-logout\:regular{background-position:0 -204px;background-repeat:no-repeat}
+.icon-icon-logout-dims{width:20px;height:20px}
+.icon-inbox,.icon-inbox\:regular{background-position:15px -229px;background-repeat:no-repeat}
+.icon-inbox-dims{height:22px; background-size: 350% 32em;}
+.icon-investments,.icon-investments\:regular{background-position:13px -175px;background-repeat:no-repeat}
+.icon-investments-dims{height:22px; background-size: 373% 22.5em;}
+.icon-logo,.icon-logo\:regular{background-position:0 -290px;background-repeat:no-repeat}
+.icon-logo-dims{width:60px;height:60px; background-size: 150% 42em;}
+.icon-logout,.icon-logout\:regular{background-position:0 -435px;background-repeat:no-repeat}
+.icon-logout-dims{width:32px;height:32px}
+.icon-payment,.icon-payment\:regular{background-position:15px -495px;background-repeat:no-repeat}
+.icon-payment-dims{background-size: 200% 52.45em;}
+
+.icon-bg {
+    background-image:url('/images/svg-sprite.svg');
+}
